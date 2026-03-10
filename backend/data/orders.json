@@ -8,5 +8,15 @@
     "wallet_address": "Rua Iraque",
     "status": "confirmado",
     "created_at": "10/03/2026 00:54:04"
+  },
+  {
+    "id": 2,
+    "name": "Dionathan Duarte Martins",
+    "email": "dionathandm25@gmail.com",
+    "amount_brl": 10000.0,
+    "brvx_amount": 100000.0,
+    "wallet_address": "BRVX4d21bf672eb94adc8f40a5e9f91e553c",
+    "status": "aguardando confirmação",
+    "created_at": "10/03/2026 04:45:18"
   }
 ]
