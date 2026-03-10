@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "DIONATHAN DUARTE MARTINS",
+    "email": "dionathandm25@gmail.com",
+    "amount_brl": 100.0,
+    "brvx_amount": 1000.0,
+    "wallet_address": "Rua Iraque",
+    "status": "confirmado",
+    "created_at": "10/03/2026 00:54:04"
+  }
+]
